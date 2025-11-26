@@ -1,0 +1,82 @@
+
+ @use "../sass/abstracts/functions" as *;
+ @use "../sass/abstracts/mixins" as *;
+ @use "../sass/abstracts/variables" as *;
+
+
+@use  "../sass/base/base" as *;
+@use "../sass/base/typography" as *;
+@use "../sass/base/animations" as *;
+@use "../sass/base/utilities" as *;
+
+
+ @use "../sass/components/button" as *;
+ @use "../sass/components/composition" as *;
+ @use "../sass/components/feature-box" as *;
+ @use "../sass/components/card" as *;
+ @use "../sass/components/story" as *;
+ @use "../sass/components/big-video" as *;
+ @use "../sass/components/form" as *;
+
+
+ @use "../sass/layout/header" as *;
+ @use "../sass/layout/grid" as *; 
+ @use "../sass/layout/footer" as *;
+
+@use "../sass/pages/home" as *;
+
+
+/*
+COLORS:
+
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+    
+ 
+
+
+
+
+ .dta-alanylist {
+
+    width: 8rem;
+    height: 8rem;
+
+    display: block;
+ }
+
+
