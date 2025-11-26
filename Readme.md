@@ -1,6 +1,4 @@
-﻿11/26/25, 7:47 PM Google Gemini
-
-🌲 Natours - Outdoors is where life happens
+﻿🌲 Natours - Outdoors is where life happens
 
 📖 About The Project
 
