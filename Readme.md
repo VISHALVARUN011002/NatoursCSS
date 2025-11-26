@@ -25,63 +25,7 @@ It features a modern, responsive design with complex animations, a custom grid s
 - Sass (SCSS) - Variables, mixins, nesting, and modular functions.
 - JavaScript - Minimal usage (only for smooth scrolling and closing the mobile menu).
 
-📂 Sass Architecture
 
-This project uses the 7-1 Pattern to organize styles:
-
-/sass
-
-|
-
-|– abstracts/
-
-|   |– \_functions.scss    # Calculation logic
-
-|   |– \_mixins.scss       # Media queries, clearing floats |   |– \_variables.scss    # Colors, fonts, grid width
-
-|
-
-|– base/
-
-|   |– \_animations.scss   # @keyframes
-
-|   |– \_base.scss         # Reset, HTML font-size (62.5%) |   |– \_typography.scss   # Headings and font settings
-
-|
-
-|– components/
-
-|   |– \_button.scss       # Button styles
-
-|   |– \_card.scss         # Rotating tour cards
-
-|   |– \_composition.scss  # Image gallery
-
-|   |– \_feature-box.scss  # Icon boxes
-
-|   |– \_form.scss         # Booking inputs
-
-|   |– \_popup.scss        # Modal window
-
-|   |– \_story.scss        # Testimonials
-
-|
-
-|– layout/
-
-|   |– \_footer.scss       # Footer layout
-
-|   |– \_grid.scss         # Grid row/col logic
-
-|   |– \_header.scss       # Hero section
-
-|   |– \_navigation.scss   # Fullscreen menu
-
-|
-
-|– pages/
-
-|   |– \_home.scss         # Homepage specific styles | – main.scss              # Imports all partials
 
 🚀 Getting Started
 
@@ -101,12 +45,9 @@ cd natours
 4. Open  index.html Simply open the file in your browser to view the site.
 
 👤 Author
+Vishal Varun
 
-[Your Name]
+- Github: https://github.com/VISHALVARUN011002
 
-- Github: [@yourusername](https://github.com/yourusername)
 
-🤝 Acknowledgments
 
-- Design and concepts based on the "Advanced CSS and Sass" course by Jonas Schmedtmann.
-https://gemini.google.com/app/e8d691ed47c05b67 2/2
